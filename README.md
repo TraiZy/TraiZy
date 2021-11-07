@@ -1,0 +1,5 @@
+- 👋 Salut, Je suis @TraiZy
+- 👀 Je suis intéressé par l'informatique
+- 🌱 Je suis entrain d'apprendre le lua et le rage-ui
+- 💞️ Je cherche à collaborer
+- 📫 Comment me rejoindre : discord.gg/xpW4mjcbg9
